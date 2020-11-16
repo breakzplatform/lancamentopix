@@ -1,6 +1,6 @@
 ## Acompanhamento do lançamento do Pix
 
-Instituiões e Suporte
+Instituições e Suporte
 
 | Instituião    | Paga QR Estático | Paga QR Dinâmico | Recebe Pix Manual |
 | ------------- | ---------------- | ---------------- | ----------------- |
