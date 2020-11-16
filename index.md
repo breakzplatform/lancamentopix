@@ -14,6 +14,7 @@ Instituições e Suporte
 | Pan           | Sim              | Nao              | N/T               |
 | Caixa         | Sim              | Nao              | N/T               |
 | PagBank       | Sim              | Nao              | N/T               |
+| AcessoCard    | Sim              | Nao              | Sim               |
 
 N/T: Não testado
 
