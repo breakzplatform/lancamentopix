@@ -13,6 +13,8 @@ Instituições e Suporte
 | C6            | Sim              | Nao              | N/T               |
 | Pan           | Sim              | Nao              | N/T               |
 
+N/T: Não testado
+
 ## Adicione Issues para atualizar tabela
 
 [Ver discussão!](https://github.com/iugu/lancamentopix/issues)
