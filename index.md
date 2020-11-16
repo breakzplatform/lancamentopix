@@ -12,6 +12,7 @@ Instituições e Suporte
 | Neon          | Não              | Não              | N/T               |
 | C6            | Sim              | Nao              | N/T               |
 | Pan           | Sim              | Nao              | N/T               |
+| Caixa         | Sim              | Nao              | N/T               |
 
 N/T: Não testado
 
