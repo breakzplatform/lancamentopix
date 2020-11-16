@@ -21,6 +21,9 @@ Instituições e Suporte
 
 Favor não pagar a fatura, apenas visualizar com seu App e não confirmar
 
-[Fatura com suporte a copie e cole](https://faturas.iugu.com/aef561ad-b35b-48be-a9c2-0700a0c96ea1-6cdc)
+[Exemplo de fatura com QR Dinâmico e Copie e Cole!](https://faturas.iugu.com/aef561ad-b35b-48be-a9c2-0700a0c96ea1-6cdc)
 
 ![QR Dinâmico](https://qr.iugu.com/public/qr_codes/image/A715C67BEE5B4C67863D13282B3467AA "QR Dinâmico")
+
+Texto para copiar e colar:
+00020101021226720014br.gov.bcb.pix2550https://qr.iugu.com/public/payload/lnrOhMFbe2FYa5452040000530398654041.035802BR5921Patrick Ribeiro Negri6009Sao Paulo62190515lnrOhMFbe2FYa5463045773
