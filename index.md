@@ -7,6 +7,11 @@ Instituições e Suporte
 | Itaú          | Sim              | Não              | Não               |
 | Nubank        | Sim              | Sim              | Sim               |
 | Bradesco      | Sim              | Não              | Sim               |
+| Mercado Pago  | Sim              | Não              | N/T               |
+| Original      | Não              | Não              | N/T               |
+| Neon          | Não              | Não              | N/T               |
+| C6            | Sim              | Nao              | N/T               |
+| Pan           | Sim              | Nao              | N/T               |
 
 ## Adicione Issues para atualizar tabela
 
