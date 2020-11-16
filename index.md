@@ -16,6 +16,7 @@ Instituições e Suporte
 | PagBank       | Sim              | Nao              | N/T               |
 | PicPay        | Sim              | Nao              | Sim               |
 | iti Itaú      | Sim              | Nao              | Sim               |
+| AcessoCard    | Sim              | Nao              | Sim               |
 
 N/T: Não testado
 
@@ -32,4 +33,4 @@ Favor não pagar a fatura, apenas visualizar com seu App e não confirmar
 ![QR Dinâmico](https://qr.iugu.com/public/qr_codes/image/A715C67BEE5B4C67863D13282B3467AA "QR Dinâmico")
 
 Texto para copiar e colar:
-00020101021226720014br.gov.bcb.pix2550https://qr.iugu.com/public/payload/lnrOhMFbe2FYa5452040000530398654041.035802BR5921Patrick Ribeiro Negri6009Sao Paulo62190515lnrOhMFbe2FYa5463045773
+00020101021226720014br.gov.bcb.pix2550qr.iugu.com/public/payload/lnrOhMFbe2FYa5452040000530398654041.035802BR5921Patrick Ribeiro Negri6009Sao Paulo62190515lnrOhMFbe2FYa5463045773
