@@ -2,7 +2,7 @@
 
 Instituições e Suporte
 
-| Instituião    | Paga QR Estático | Paga QR Dinâmico | Recebe Pix Manual |
+| Instituição   | Paga QR Estático | Paga QR Dinâmico | Recebe Pix Manual |
 | ------------- | ---------------- | ---------------- | ----------------- |
 | Itaú          | Sim              | Não              | Não               |
 | Nubank        | Sim              | Sim              | Sim               |
