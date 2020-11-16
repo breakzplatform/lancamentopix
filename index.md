@@ -21,4 +21,6 @@ Instituições e Suporte
 
 Favor não pagar a fatura, apenas visualizar com seu App e não confirmar
 
+[Fatura com suporte a copie e cole](https://faturas.iugu.com/aef561ad-b35b-48be-a9c2-0700a0c96ea1-6cdc)
+
 ![QR Dinâmico](https://qr.iugu.com/public/qr_codes/image/A715C67BEE5B4C67863D13282B3467AA "QR Dinâmico")
