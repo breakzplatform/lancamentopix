@@ -14,6 +14,8 @@ Instituições e Suporte
 | Pan           | Sim              | Nao              | N/T               |
 | Caixa         | Sim              | Nao              | N/T               |
 | PagBank       | Sim              | Nao              | N/T               |
+| PicPay        | Sim              | Nao              | Sim               |
+| iti Itaú      | Sim              | Nao              | Sim               |
 
 N/T: Não testado
 
